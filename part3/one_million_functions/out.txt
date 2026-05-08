@@ -1,0 +1,3 @@
+compiling million.o
+compiling main.o
+linking .o files together into million
